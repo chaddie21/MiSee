@@ -1,0 +1,20 @@
+Metadata-Version: 2.0
+Name: nx-spatial
+Version: 0.6.dev0
+Summary: Additional GIS focused functions for networkx graphs.
+Home-page: http://bitbucket.org/gallipoli/nx_spatial
+Author: Ben Reilly
+Author-email: gallipoli@gmail.com
+License: MPL
+Keywords: spatial,gis,topology,networkx
+Platform: UNKNOWN
+Classifier: Topic :: Scientific/Engineering :: GIS
+Requires-Dist: networkx (>=1.2)
+
+This project is designed as an add-on for networkx, a graph library for
+Python. It accepts a variety of different spatial formats to generate
+directional graphs and provides simple modules to correct flow errors,
+find specific nodes by attribute, and run a depth first search (trace)
+with stopping points.
+
+

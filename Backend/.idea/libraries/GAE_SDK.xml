@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="GAE_SDK" type="python">
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/Google/google_appengine" />
+      <root url="file://C:/Program Files (x86)/Google/google_appengine/lib/endpoints-1.0" />
+      <root url="file://C:/Program Files (x86)/Google/google_appengine/lib/protorpc-1.0"/>
+      <root url="file://C:/Users/Photonovation/Google Drive/MiSee/Backend/lib"/>
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

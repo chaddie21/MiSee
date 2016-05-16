@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="GAE_SDK" type="python">
-    <CLASSES>
-      <root url="file://C:/Program Files (x86)/Google/google_appengine" />
-      <root url="file://C:/Program Files (x86)/Google/google_appengine/lib/endpoints-1.0" />
-    </CLASSES>
-    <SOURCES />
-  </library>
-</component>
